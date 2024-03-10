@@ -1,5 +1,5 @@
 from servos import *
-from localiztion import *
+from localization import *
 from detector import *
 from pid_control import PID
 import time
